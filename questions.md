@@ -19,8 +19,6 @@ Q2. In [Clean Code](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf])
 
 Q3. In [Clean Code](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf]) By now everyone knows that TDD asks us to write __________ first, before we write production code. But that rule is just the tip of the iceberg. Consider the following three laws:(fill the blank space)
 
-    -
-
 ----------------------------------------
 
 Q4.Choose the correct answer.
